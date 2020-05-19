@@ -32,7 +32,7 @@ test_randomforest.cpp     : Tests implemented for you / your personal tests
 ## Where to Start
 Open a terminal window in Jupytherhub(recommended) or your personal linux/mac machine (no windows platforms). First pull the this repository by
 ```console
-jovyan@jupyter-yourcuid:~$ git clone https://github.com/Colorado-CompSci-Ugrad/Graphs.git
+jovyan@jupyter-yourcuid:~$ git clone https://github.com/hillaryweinberg/rf_black_box.git
 ```
 ### If you want to use vscode environment
 Then open the VScode app through JupyterHub and open Graphs folder from vscode.
